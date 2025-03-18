@@ -1,0 +1,2 @@
+black  # Code formatting
+flake8  # Linting for clean code
